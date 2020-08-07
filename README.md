@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Alex Viegut 👋
+I'm a PhD student in Educational Psychology at University of Wisconsin-Madison. I study mathematical cognition and learning. Specifically, my current research focuses on the role of visual representations in fraction learning and connections between fractions and algebra. I'm passionate about teaching and mentoringFind me on Twitter @alexviegut.
 
 <!--
 **aviegut/aviegut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
